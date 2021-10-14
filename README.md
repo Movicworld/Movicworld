@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studing Computer Engineering.
 - 🌱 I’m a Php and Javascript developer.
 - 👯 I work using Php laravel Vuejs HTML CSS and a little of Nodejs
-- 🤔 I’m looking for collaborate on open source projects and opportunity to learn more.
+- 🤔 I’m looking for opportunity to collaborate on open source projects and opportunity to learn more.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: 
 ![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=movic_femi&logo=Twitter&style=social&url=https://twitter.com/movic_femi?s=09)
-![Facebook URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=Vitor%20Morakinyo&logo=facebook&style=social&url=https://www.facebook.com/victor.morakinyo.79/)
+![Facebook URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=Victor%20Morakinyo&logo=facebook&style=social&url=https://www.facebook.com/victor.morakinyo.79/)
 ![LinkedIn URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=Victor%20Morakinyo&logo=linkedin&style=social&url=https://www.linkedin.com/in/victor-oluwafemi-morakinyo-b45288192/ForiginalSubdomain%3Dng)
