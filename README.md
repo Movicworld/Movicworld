@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2> Hello fellow human! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bGFwdG9wJTIwY29kZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80" width='250"'>
