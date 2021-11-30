@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - My name is Victor Oluwafemi Morakinyo
 - 🔭 I’m currently studing Computer Engineering.
 - 🌱 I’m a Php and Javascript developer.
-- 👯 I work using Php laravel Vuejs HTML CSS and a little of Nodejs
+- 👯 I work using Php laravel HTML CSS and a little of Nodejs
 - 🤔 I’m looking for opportunity to collaborate on open source projects and opportunity to learn more.
 - 😄 Pronouns: He/Him
