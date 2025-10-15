@@ -1,15 +1,33 @@
-<h2> Hello fellow human! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2>👋 Hello there, fellow human!</h2>
 
-<img align='right' src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bGFwdG9wJTIwY29kZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80" width='250"'>
+<img align="right" src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bGFwdG9wJTIwY29kZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80" width="250" alt="Coding Image"/>
 
-<!--
-**Movicworld/Movicworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 About Me  
+- 👋 Hi, I'm **Victor Oluwafemi Morakinyo**  
+- 💻 I’m a **PHP** and **JavaScript** developer  
+- ⚙️ I work primarily with **Laravel**, **Express.js**, **AdonisJS**, **CodeIgniter**, **HTML**, **CSS**, and a bit of **Node.js**  
+- 🚀 I’m passionate about backend development, clean code architecture, and building scalable web systems  
+- 🤝 I’m open to collaborating on **open-source projects** and exploring **new learning opportunities**  
+- 😄 Pronouns: **He/Him**
 
-Here are some ideas to get you started:
--->
+---
 
-- My name is Victor Oluwafemi Morakinyo
-- 🌱 I’m a Php and Javascript developer.
-- 👯 I work using Php laravel HTML CSS and a little of Nodejs
-- 🤔 I’m looking for opportunity to collaborate on open source projects and opportunity to learn more.
-- 😄 Pronouns: He/Him
+### 🛠️ Tech Stack  
+
+#### 💡 Languages & Frameworks  
+`PHP` • `Laravel` • `CodeIgniter` • `JavaScript` • `Node.js` • `Express.js` • `AdonisJS` • `HTML` • `CSS`
+
+#### 🗄️ Databases & Tools  
+`MySQL` • `PostgreSQL` • `SQLite` • `Git` • `Composer` • `npm` • `Postman`
+
+#### ☁️ Currently Exploring  
+`TypeScript` • `Microservices` • `RESTful APIs` • `GraphQL` • `Cloud Deployments` • `CI/CD Pipelines`
+
+---
+
+### 📫 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/victor-oluwafemi-morakinyo)  
+
+---
+
+⭐️ *"Code. Learn. Build. Repeat."*
