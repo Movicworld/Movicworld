@@ -26,7 +26,7 @@
 ---
 
 ### 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/victor-oluwafemi-morakinyo)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/victor-oluwafemi-morakinyo-b45288192/)  
 
 ---
 
