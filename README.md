@@ -5,7 +5,7 @@
 ### 🧑‍💻 About Me  
 - 👋 Hi, I'm **Victor Oluwafemi Morakinyo**  
 - 💻 I’m a **PHP** and **JavaScript** developer  
-- ⚙️ I work primarily with **Laravel**, **Express.js**, **AdonisJS**, **CodeIgniter**, **HTML**, **CSS**, and a bit of **Node.js**  
+- ⚙️ I work primarily with **Laravel**, **Express.js**, **AdonisJS**, **CodeIgniter**, **HTML**, **CSS** 
 - 🚀 I’m passionate about backend development, clean code architecture, and building scalable web systems  
 - 🤝 I’m open to collaborating on **open-source projects** and exploring **new learning opportunities**  
 - 😄 Pronouns: **He/Him**
